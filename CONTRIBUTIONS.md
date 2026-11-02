@@ -6,7 +6,7 @@
 | 2 | Melvina Chairany | 2510501018 | Laporan |
 | 3 | Muhammad Zaid | 2510501020 | Laporan |
 | 4 | Rahel Marthalena | 2510501030 | lib/lib.sh, bin/backup.sh, config, tests, README, docs |
-| 5 | Ina Wanny | 2510501005 | Laporan |
+| 5 | Ina Wanny | 2510501005 | Laporan, P12: SSH berbasis kunci, SCP, pengujian, config, docs|
 | 6 | Zahwa Dzakira | 2510501026 | Laporan |
 | 7 | Ruth Anabel | 2510501001 | Laporan |
 | 8 | Icha Aprilia | 2510501024 | Laporan |
