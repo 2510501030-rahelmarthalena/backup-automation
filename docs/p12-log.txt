@@ -1,0 +1,9 @@
+== 2026-11-02T09:24:19+00:00 DIIZINKAN (kunci sah) ==
+akses-ok
+exit=0
+== 2026-11-02T09:24:19+00:00 DITOLAK (kunci palsu) ==
+wannyuly@localhost: Permission denied (publickey,password).
+exit=255
+== 2026-11-02T09:24:19+00:00 DITOLAK (user tamu) ==
+tamu@localhost: Permission denied (publickey,password).
+exit=255
