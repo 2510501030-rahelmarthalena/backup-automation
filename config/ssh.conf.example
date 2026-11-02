@@ -1,0 +1,8 @@
+# Contoh opsi SSH/SCP untuk P12 (tanpa credential)
+# Kunci dibuat sendiri: ssh-keygen -t ed25519 -f ~/.ssh/p12_key
+# Kunci privat TIDAK BOLEH di-commit.
+Host p12-target
+    HostName localhost
+    IdentityFile ~/.ssh/p12_key
+    IdentitiesOnly yes
+    BatchMode yes
